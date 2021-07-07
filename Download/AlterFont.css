@@ -1,0 +1,54 @@
+/*
+
+    This website made for editional purposes
+
+            COPYRIGHT (C) MST-CI, MEC
+
+    U Can find us here http://play.meast.cf/
+
+*/
+
+@font-face{
+    font-family: bankgothic;
+    src: url(http://cdn.knfh.gq/Download/bankgothic.ttf)
+}
+
+@font-face{
+    font-family: BankGothicMedium;
+    src: url(http://cdn.knfh.gq/Download/BankGothicMedium.otf)
+}
+
+@font-face{
+    font-family: fira_mono_bold;
+    src: url(http://cdn.knfh.gq/Download/fira_mono_bold.ttf)
+}
+
+@font-face{
+    font-family: fira_mono_regular;
+    src: url(http://cdn.knfh.gq/Download/fira_mono_regular.ttf)
+}
+
+
+h1{
+    font-family: bankgothic;
+}
+
+h2{
+    font-family: fira_mono_regular;
+}
+
+br{
+    font-family: bankgothic;
+}
+
+td{
+    font-family: bankgothic;
+}
+
+th{
+    font-family: fira_mono_bold;
+}
+
+p{
+    font-family: BankGothicMedium;
+}
